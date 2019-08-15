@@ -1,0 +1,611 @@
+
+Starting initialization of http://elasticsearch-logging:9200
+Done!
+Creating indices.. 
+Generating documents and workers.. 
+Done!
+Starting the test. Will print stats every 15 seconds.
+The test would run for 1800 seconds, but it might take a bit more because we are waiting for current bulk operation to complete. 
+
+Elapsed time: 16 seconds
+Successful bulks: 67 (335000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 100 MB which is 6.25 MB/s
+
+Elapsed time: 31 seconds
+Successful bulks: 138 (690000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 207 MB which is 6.68 MB/s
+
+Elapsed time: 46 seconds
+Successful bulks: 211 (1055000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 318 MB which is 6.91 MB/s
+
+Elapsed time: 61 seconds
+Successful bulks: 282 (1410000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 424 MB which is 6.95 MB/s
+
+Elapsed time: 76 seconds
+Successful bulks: 352 (1760000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 530 MB which is 6.97 MB/s
+
+Elapsed time: 91 seconds
+Successful bulks: 423 (2115000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 637 MB which is 7.00 MB/s
+
+Elapsed time: 106 seconds
+Successful bulks: 494 (2470000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 744 MB which is 7.02 MB/s
+
+Elapsed time: 121 seconds
+Successful bulks: 563 (2815000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 848 MB which is 7.01 MB/s
+
+Elapsed time: 136 seconds
+Successful bulks: 635 (3175000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 956 MB which is 7.03 MB/s
+
+Elapsed time: 151 seconds
+Successful bulks: 708 (3540000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1066 MB which is 7.06 MB/s
+
+Elapsed time: 166 seconds
+Successful bulks: 779 (3895000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1173 MB which is 7.07 MB/s
+
+Elapsed time: 181 seconds
+Successful bulks: 851 (4255000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1282 MB which is 7.08 MB/s
+
+Elapsed time: 196 seconds
+Successful bulks: 920 (4600000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1386 MB which is 7.07 MB/s
+
+Elapsed time: 211 seconds
+Successful bulks: 990 (4950000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1491 MB which is 7.07 MB/s
+
+Elapsed time: 226 seconds
+Successful bulks: 1062 (5310000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1599 MB which is 7.08 MB/s
+
+Elapsed time: 241 seconds
+Successful bulks: 1130 (5650000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1702 MB which is 7.06 MB/s
+
+Elapsed time: 256 seconds
+Successful bulks: 1200 (6000000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1807 MB which is 7.06 MB/s
+
+Elapsed time: 271 seconds
+Successful bulks: 1273 (6365000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 1917 MB which is 7.07 MB/s
+
+Elapsed time: 286 seconds
+Successful bulks: 1347 (6735000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2029 MB which is 7.09 MB/s
+
+Elapsed time: 301 seconds
+Successful bulks: 1418 (7090000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2134 MB which is 7.09 MB/s
+
+Elapsed time: 316 seconds
+Successful bulks: 1488 (7440000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2241 MB which is 7.09 MB/s
+
+Elapsed time: 331 seconds
+Successful bulks: 1560 (7800000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2350 MB which is 7.10 MB/s
+
+Elapsed time: 346 seconds
+Successful bulks: 1631 (8155000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2457 MB which is 7.10 MB/s
+
+Elapsed time: 361 seconds
+Successful bulks: 1701 (8505000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2562 MB which is 7.10 MB/s
+
+Elapsed time: 376 seconds
+Successful bulks: 1770 (8850000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2666 MB which is 7.09 MB/s
+
+Elapsed time: 391 seconds
+Successful bulks: 1840 (9200000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2771 MB which is 7.09 MB/s
+
+Elapsed time: 406 seconds
+Successful bulks: 1913 (9565000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2881 MB which is 7.10 MB/s
+
+Elapsed time: 421 seconds
+Successful bulks: 1984 (9920000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 2988 MB which is 7.10 MB/s
+
+Elapsed time: 436 seconds
+Successful bulks: 2054 (10270000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3094 MB which is 7.10 MB/s
+
+Elapsed time: 451 seconds
+Successful bulks: 2124 (10620000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3199 MB which is 7.09 MB/s
+
+Elapsed time: 466 seconds
+Successful bulks: 2195 (10975000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3306 MB which is 7.09 MB/s
+
+Elapsed time: 481 seconds
+Successful bulks: 2265 (11325000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3412 MB which is 7.09 MB/s
+
+Elapsed time: 496 seconds
+Successful bulks: 2334 (11670000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3516 MB which is 7.09 MB/s
+
+Elapsed time: 511 seconds
+Successful bulks: 2406 (12030000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3624 MB which is 7.09 MB/s
+
+Elapsed time: 526 seconds
+Successful bulks: 2477 (12385000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3731 MB which is 7.09 MB/s
+
+Elapsed time: 541 seconds
+Successful bulks: 2548 (12740000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3838 MB which is 7.09 MB/s
+
+Elapsed time: 556 seconds
+Successful bulks: 2621 (13105000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 3946 MB which is 7.10 MB/s
+
+Elapsed time: 571 seconds
+Successful bulks: 2692 (13460000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4055 MB which is 7.10 MB/s
+
+Elapsed time: 586 seconds
+Successful bulks: 2763 (13815000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4162 MB which is 7.10 MB/s
+
+Elapsed time: 601 seconds
+Successful bulks: 2832 (14160000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4266 MB which is 7.10 MB/s
+
+Elapsed time: 616 seconds
+Successful bulks: 2899 (14495000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4367 MB which is 7.09 MB/s
+
+Elapsed time: 631 seconds
+Successful bulks: 2970 (14850000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4474 MB which is 7.09 MB/s
+
+Elapsed time: 646 seconds
+Successful bulks: 3031 (15155000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4566 MB which is 7.07 MB/s
+
+Elapsed time: 661 seconds
+Successful bulks: 3095 (15475000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4662 MB which is 7.05 MB/s
+
+Elapsed time: 676 seconds
+Successful bulks: 3161 (15805000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4761 MB which is 7.04 MB/s
+
+Elapsed time: 691 seconds
+Successful bulks: 3226 (16130000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4859 MB which is 7.03 MB/s
+
+Elapsed time: 706 seconds
+Successful bulks: 3291 (16455000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 4957 MB which is 7.02 MB/s
+
+Elapsed time: 721 seconds
+Successful bulks: 3356 (16780000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5055 MB which is 7.01 MB/s
+
+Elapsed time: 736 seconds
+Successful bulks: 3421 (17105000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5153 MB which is 7.00 MB/s
+
+Elapsed time: 751 seconds
+Successful bulks: 3489 (17445000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5256 MB which is 7.00 MB/s
+
+Elapsed time: 766 seconds
+Successful bulks: 3554 (17770000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5353 MB which is 6.99 MB/s
+
+Elapsed time: 781 seconds
+Successful bulks: 3600 (18000000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5423 MB which is 6.94 MB/s
+
+Elapsed time: 796 seconds
+Successful bulks: 3627 (18135000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5464 MB which is 6.86 MB/s
+
+Elapsed time: 811 seconds
+Successful bulks: 3663 (18315000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5518 MB which is 6.80 MB/s
+
+Elapsed time: 826 seconds
+Successful bulks: 3705 (18525000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5581 MB which is 6.76 MB/s
+
+Elapsed time: 841 seconds
+Successful bulks: 3737 (18685000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5629 MB which is 6.69 MB/s
+
+Elapsed time: 856 seconds
+Successful bulks: 3765 (18825000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5671 MB which is 6.62 MB/s
+
+Elapsed time: 871 seconds
+Successful bulks: 3803 (19015000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5729 MB which is 6.58 MB/s
+
+Elapsed time: 886 seconds
+Successful bulks: 3870 (19350000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5830 MB which is 6.58 MB/s
+
+Elapsed time: 901 seconds
+Successful bulks: 3939 (19695000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 5933 MB which is 6.58 MB/s
+
+Elapsed time: 916 seconds
+Successful bulks: 4007 (20035000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6036 MB which is 6.59 MB/s
+
+Elapsed time: 931 seconds
+Successful bulks: 4077 (20385000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6141 MB which is 6.60 MB/s
+
+Elapsed time: 946 seconds
+Successful bulks: 4145 (20725000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6244 MB which is 6.60 MB/s
+
+Elapsed time: 961 seconds
+Successful bulks: 4214 (21070000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6348 MB which is 6.61 MB/s
+
+Elapsed time: 976 seconds
+Successful bulks: 4283 (21415000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6452 MB which is 6.61 MB/s
+
+Elapsed time: 991 seconds
+Successful bulks: 4354 (21770000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6558 MB which is 6.62 MB/s
+
+Elapsed time: 1006 seconds
+Successful bulks: 4424 (22120000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6664 MB which is 6.62 MB/s
+
+Elapsed time: 1021 seconds
+Successful bulks: 4492 (22460000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6766 MB which is 6.63 MB/s
+
+Elapsed time: 1036 seconds
+Successful bulks: 4560 (22800000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6869 MB which is 6.63 MB/s
+
+Elapsed time: 1051 seconds
+Successful bulks: 4629 (23145000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 6973 MB which is 6.63 MB/s
+
+Elapsed time: 1066 seconds
+Successful bulks: 4698 (23490000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7077 MB which is 6.64 MB/s
+
+Elapsed time: 1081 seconds
+Successful bulks: 4766 (23830000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7179 MB which is 6.64 MB/s
+
+Elapsed time: 1096 seconds
+Successful bulks: 4835 (24175000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7283 MB which is 6.65 MB/s
+
+Elapsed time: 1111 seconds
+Successful bulks: 4903 (24515000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7386 MB which is 6.65 MB/s
+
+Elapsed time: 1126 seconds
+Successful bulks: 4971 (24855000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7488 MB which is 6.65 MB/s
+
+Elapsed time: 1141 seconds
+Successful bulks: 5040 (25200000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7592 MB which is 6.65 MB/s
+
+Elapsed time: 1156 seconds
+Successful bulks: 5109 (25545000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7696 MB which is 6.66 MB/s
+
+Elapsed time: 1171 seconds
+Successful bulks: 5178 (25890000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7800 MB which is 6.66 MB/s
+
+Elapsed time: 1186 seconds
+Successful bulks: 5247 (26235000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 7904 MB which is 6.66 MB/s
+
+Elapsed time: 1201 seconds
+Successful bulks: 5314 (26570000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8005 MB which is 6.67 MB/s
+
+Elapsed time: 1216 seconds
+Successful bulks: 5382 (26910000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8107 MB which is 6.67 MB/s
+
+Elapsed time: 1231 seconds
+Successful bulks: 5451 (27255000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8211 MB which is 6.67 MB/s
+
+Elapsed time: 1247 seconds
+Successful bulks: 5520 (27600000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8315 MB which is 6.67 MB/s
+
+Elapsed time: 1262 seconds
+Successful bulks: 5590 (27950000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8421 MB which is 6.67 MB/s
+
+Elapsed time: 1277 seconds
+Successful bulks: 5657 (28285000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8521 MB which is 6.67 MB/s
+
+Elapsed time: 1292 seconds
+Successful bulks: 5726 (28630000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8626 MB which is 6.68 MB/s
+
+Elapsed time: 1307 seconds
+Successful bulks: 5796 (28980000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8731 MB which is 6.68 MB/s
+
+Elapsed time: 1322 seconds
+Successful bulks: 5864 (29320000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8833 MB which is 6.68 MB/s
+
+Elapsed time: 1337 seconds
+Successful bulks: 5932 (29660000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 8936 MB which is 6.68 MB/s
+
+Elapsed time: 1352 seconds
+Successful bulks: 6001 (30005000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9040 MB which is 6.69 MB/s
+
+Elapsed time: 1367 seconds
+Successful bulks: 6069 (30345000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9143 MB which is 6.69 MB/s
+
+Elapsed time: 1382 seconds
+Successful bulks: 6137 (30685000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9245 MB which is 6.69 MB/s
+
+Elapsed time: 1397 seconds
+Successful bulks: 6205 (31025000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9347 MB which is 6.69 MB/s
+
+Elapsed time: 1412 seconds
+Successful bulks: 6273 (31365000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9450 MB which is 6.69 MB/s
+
+Elapsed time: 1427 seconds
+Successful bulks: 6342 (31710000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9554 MB which is 6.70 MB/s
+
+Elapsed time: 1442 seconds
+Successful bulks: 6405 (32025000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9649 MB which is 6.69 MB/s
+
+Elapsed time: 1457 seconds
+Successful bulks: 6468 (32340000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9744 MB which is 6.69 MB/s
+
+Elapsed time: 1472 seconds
+Successful bulks: 6537 (32685000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9848 MB which is 6.69 MB/s
+
+Elapsed time: 1487 seconds
+Successful bulks: 6606 (33030000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 9951 MB which is 6.69 MB/s
+
+Elapsed time: 1502 seconds
+Successful bulks: 6674 (33370000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10054 MB which is 6.69 MB/s
+
+Elapsed time: 1517 seconds
+Successful bulks: 6744 (33720000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10159 MB which is 6.70 MB/s
+
+Elapsed time: 1532 seconds
+Successful bulks: 6814 (34070000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10265 MB which is 6.70 MB/s
+
+Elapsed time: 1547 seconds
+Successful bulks: 6883 (34415000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10367 MB which is 6.70 MB/s
+
+Elapsed time: 1562 seconds
+Successful bulks: 6952 (34760000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10473 MB which is 6.70 MB/s
+
+Elapsed time: 1577 seconds
+Successful bulks: 7022 (35110000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10578 MB which is 6.71 MB/s
+
+Elapsed time: 1592 seconds
+Successful bulks: 7093 (35465000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10685 MB which is 6.71 MB/s
+
+Elapsed time: 1607 seconds
+Successful bulks: 7162 (35810000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10789 MB which is 6.71 MB/s
+
+Elapsed time: 1622 seconds
+Successful bulks: 7229 (36145000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10890 MB which is 6.71 MB/s
+
+Elapsed time: 1637 seconds
+Successful bulks: 7297 (36485000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 10992 MB which is 6.71 MB/s
+
+Elapsed time: 1652 seconds
+Successful bulks: 7366 (36830000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11096 MB which is 6.72 MB/s
+
+Elapsed time: 1667 seconds
+Successful bulks: 7435 (37175000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11200 MB which is 6.72 MB/s
+
+Elapsed time: 1682 seconds
+Successful bulks: 7504 (37520000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11304 MB which is 6.72 MB/s
+
+Elapsed time: 1697 seconds
+Successful bulks: 7573 (37865000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11408 MB which is 6.72 MB/s
+
+Elapsed time: 1712 seconds
+Successful bulks: 7641 (38205000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11510 MB which is 6.72 MB/s
+
+Elapsed time: 1727 seconds
+Successful bulks: 7710 (38550000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11614 MB which is 6.72 MB/s
+
+Elapsed time: 1742 seconds
+Successful bulks: 7778 (38890000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11717 MB which is 6.73 MB/s
+
+Elapsed time: 1757 seconds
+Successful bulks: 7846 (39230000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11819 MB which is 6.73 MB/s
+
+Elapsed time: 1772 seconds
+Successful bulks: 7913 (39565000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 11920 MB which is 6.73 MB/s
+
+Elapsed time: 1787 seconds
+Successful bulks: 7982 (39910000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 12024 MB which is 6.73 MB/s
+
+
+Test is done! Final results:
+Elapsed time: 1800 seconds
+Successful bulks: 8038 (40190000 documents)
+Failed bulks: 0 (0 documents)
+Indexed approximately 12108 MB which is 6.73 MB/s
+
