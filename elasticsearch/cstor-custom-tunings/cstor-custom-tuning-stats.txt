@@ -1,4 +1,4 @@
-Following settings have been tweaked in cStor --
+Following settings have been tuned in cStor --
 - Removed limits from pool pods.
 - set zvol workers to 100.
 - Increased Luworker to 32 (from 6).
